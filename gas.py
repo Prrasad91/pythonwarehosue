@@ -1,3 +1,4 @@
+
 """
 Given two integer arrays A and B of size N.
 There are N gas stations along a circular route, where the amount of gas at station i is A[i].
@@ -59,5 +60,3 @@ class Solution:
 gas = [1,2,3,4,5]
 cost = [3,4,5,1,2]
 Solution.c_circuit(gas,cost)
-
-
